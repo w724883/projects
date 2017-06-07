@@ -1,0 +1,49 @@
+.detail{
+
+}
+.detail-header{
+	overflow: hidden;
+}
+.detail-head{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.detail-about{
+
+	margin: 0 0 0 110px;
+
+}
+
+.separation-list{
+	overflow: hidden;
+	li{
+		float: left;
+		width: 33%;
+
+	}
+}
+
+.separation-info{
+	p{
+		padding: 0 0 0 15px;
+		text-indent: -15px;
+	}
+}
+
+.separation-buy{
+	overflow: hidden;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	p{
+		float: left;
+		width: 70%;
+	}
+	a{
+		float: left;
+		width: 30%;
+	}
+}
